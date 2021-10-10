@@ -18,22 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Дзюдо школа Горбоконь Киев. Judo Gorbokon Team Ukraine
+title: Дзюдо школа Горбоконь Киев
 email: horbokon@bigmir.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Контакты: Анна Петровна Горбоконь, тел.: (093) 363-63-33
+  Judo Gorbokon Team Ukraine
+description1: >-
+  Анна Петровна Горбоконь, тел.: (093) 363-63-33
   Игорь Петрович Горбоконь, тел.: (096) 333-92-53, (093) 412-62-77
-  1 зал: Университет МАУП, г. Киев, ул. Фрометовская, 2, корпус 6, метро Демеевская
-  2 зал: Голосеевский р-н, Теремки 2, ул. Якубовского 8, iGym, ближайшее метро Ипподром
+zal1: '1 зал: Университет МАУП, г. Киев, ул. Фрометовская, 2, корпус 6, метро Демеевская'
+zal2: '2 зал: Голосеевский р-н, Теремки 2, ул. Якубовского 8, iGym, ближайшее метро Ипподром'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
+# remote_theme: poole/hyde
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -43,7 +48,13 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+    - .ruby-gemset
+    - .ruby-version
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - README.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
