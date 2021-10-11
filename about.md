@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Секция дзюдо
-permalink: /about
+permalink: /judo
 ---
 
 <h1>Секция дзюдо, Киев</h1>
