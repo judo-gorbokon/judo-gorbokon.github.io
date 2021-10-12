@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Контакты
+title: Контакты. Залы тренировок
 permalink: /contacts
 ---
 
