@@ -1,10 +1,9 @@
 ---
-layout: default
-title: Секция дзюдо
-permalink: /judo
+layout: page
+title: Секция дзюдо, Киев
+permalink: /sektsiya-judo-kyiv
 ---
 
-<h1>Секция дзюдо, Киев</h1>
 <p>
   <span class="h2">Горбоконь Анна Петровна</span> - тренер, мастер спорта по дзюдо проводит занятия в <span class="h3">секции дзюдо</span> для детей, группы разного уровня подготовки.
 </p>
