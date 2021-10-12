@@ -265,3 +265,16 @@ span.h3 {
   letter-spacing: normal;
   line-height: 30px;
 }
+
+.social-icons {
+  display: inline-flex;
+  padding-top: 9px;
+}
+
+.menu-ico-link {
+  margin-right: 9px;
+}
+
+.menu-ico {
+  width: 48px;
+}
