@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Секция дзюдо, Киев
+title: 'Про нас: секция дзюдо, Киев'
 permalink: /sektsiya-judo-kyiv
 ---
 
