@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Privacy Policy
-permalink: /privacy
+permalink: /privacy-policy
 ---
+
+# Privacy Policy
 
 Effective date: October 11, 2021
 
