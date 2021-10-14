@@ -278,3 +278,20 @@ span.h3 {
 .menu-ico {
   width: 48px;
 }
+
+a.button {
+  text-decoration: underline;
+  background-color: #005282;
+  border: 2px solid #005282;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 6px;
+  padding-left: 6px;
+}
+
+a.button:hover {
+  text-decoration: none;
+  background-color: #0072b3;
+  border-color: #0072b3;
+}
