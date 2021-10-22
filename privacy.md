@@ -8,7 +8,7 @@ permalink: /privacy-policy
 
 Effective date: October 11, 2021
 
-Gorbokon Judo Team Ukraine ("us", "we", or "our") operates the https://judo-gorbokon.github.io/ website (the "Service").
+Gorbokon Judo Team Ukraine ("us", "we", or "our") operates the https://judo.pp.ua/ website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
