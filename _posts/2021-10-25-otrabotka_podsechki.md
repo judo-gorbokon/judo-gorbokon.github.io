@@ -11,13 +11,13 @@ categories: дзюдо тренировка подсечка
 
 Подсечку необходимо отрабатывать в обе стороны: вправо и влево.
 
-<video width="960" height="540" controls>
+<video width="640" height="360" controls>
   <source src="/public/video/2021-10-25/IMG_2629.MOV" type="video/mov"/>
   <source src="/public/video/2021-10-25/IMG_2629.webm" type="video/webm"/>
 Your browser does not support the video tag.
 </video>
 
-<video width="960" height="540" controls>
+<video width="640" height="360" controls>
   <source src="/public/video/2021-10-25/IMG_2634.MOV" type="video/mov"/>
   <source src="/public/video/2021-10-25/IMG_2634.webm" type="video/webm"/>
 Your browser does not support the video tag.

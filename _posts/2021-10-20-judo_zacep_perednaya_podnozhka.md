@@ -15,7 +15,7 @@ categories: дзюдо зацеп подножка
 
 - Приемы нужно выполнять "слитно", не делая паузу между ними, чтобы не дать сопернику времени перегруппироваться.
 
-<video width="960" height="540" controls>
+<video width="640" height="360" controls>
   <source src="/public/video/2021-10-20/judo_zacep_perednaya_podnozhka.mp4" type="video/mp4"/>
   <source src="/public/video/2021-10-20/judo_zacep_perednaya_podnozhka.webm" type="video/webm"/>
 Your browser does not support the video tag.
